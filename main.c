@@ -8,11 +8,11 @@ int main()
 
     if (n == 1)
     {
-        printf("hello\n");
+        printf("world\n");
     }
     else if (n == 2)
     {
-        printf("world\n");
+        printf("hello\n");
     }
 
     return 0;
