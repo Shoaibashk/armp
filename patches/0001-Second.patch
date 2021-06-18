@@ -1,0 +1,30 @@
+From 45e9913150f66b3e22ae787809a3732f6d67e283 Mon Sep 17 00:00:00 2001
+From: Shoaibashk <shoaibashk.2000@gmail.com>
+Date: Fri, 18 Jun 2021 20:55:05 +0530
+Subject: [PATCH] Second
+
+---
+ main.c | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/main.c b/main.c
+index 07f81cb..270af17 100644
+--- a/main.c
++++ b/main.c
+@@ -8,11 +8,11 @@ int main()
+ 
+     if (n == 1)
+     {
+-        printf("hello\n");
++        printf("world\n");
+     }
+     else if (n == 2)
+     {
+-        printf("world\n");
++        printf("hello\n");
+     }
+ 
+     return 0;
+-- 
+2.25.1
+
